@@ -6,18 +6,18 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-11T03:37:20.174Z'
-dateModified: '2016-03-11T03:37:15.579Z'
+datePublished: '2016-03-11T03:39:20.766Z'
+dateModified: '2016-03-11T03:39:08.015Z'
 title: bridal lingerie
 author: []
+sourcePath: _posts/2016-03-11-bridal-lingerie.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-11-bridal-lingerie.md
-published: true
 url: bridal-lingerie/index.html
 _type: Article
 
@@ -27,4 +27,4 @@ _type: Article
 ## Ilona Hassan
 
 # bridal lingerie
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c2bbecb6-8e9d-4578-8563-849afd9aee25.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ef2b63c8-78a1-442a-a256-d70ab2c14a7d.png)
