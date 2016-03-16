@@ -1,6 +1,6 @@
 name: Ilona Hassan Bridal Lingerie
 favicon: null
-layout_spectrum: 0.75422
+layout_spectrum: 0.88598
 typography_spectrum: 0.8138280452694744
 title: Ilona Hassan
 cta:
@@ -23,7 +23,7 @@ color:
     - '#2667FF'
     - '#3B28CC'
   brandStrength: 0.5
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.6941166007891297
+  lightness: 0.4375
+  saturation: 0.625
+  rhythmicContrast: 0.25
 purpose: []
